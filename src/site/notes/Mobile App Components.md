@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/mobile-app-components/","dg-note-properties":{}}
 ---
 
+## Things in the Tree apps today:
 
 1. App Store admin interactions (release management, uploads, approval)
 2. App Store marketing (promotional messaging, ASO, conversion rate)
@@ -29,10 +30,10 @@
 
 
 
-BENEFITS
+##### BENEFITS
 Teams own outcomes across devices and platforms
 Users get consistent experiences across devices and platforms
 Ai transition across different platform gets easier over time
 
-CHALLENGES
+##### CHALLENGES
 How do we ensure a cohesive experience for the entire app?

@@ -17,16 +17,17 @@
 11. Home / Discovery tab
 12. Tree pedigrees, persons, recents / tree operations
 13. My Contributions
-14. Search
-15. Memories
-16. Temple / Ordinances Ready
-17. Hints / tasks / record attach
-18. Family Groups
-19. Relatives Around Me / Relatives at Events
-20. Family History Activities
-21. Chat / Contacts
-22. Help
-23. Map My Ancestors ?
+14. Guided Tree Building
+15. Search
+16. Memories
+17. Temple / Ordinances Ready
+18. Hints / tasks / record attach
+19. Family Groups
+20. Relatives Around Me / Relatives at Events
+21. Family History Activities
+22. Chat / Contacts
+23. Help
+24. Map My Ancestors ?
 
 
 

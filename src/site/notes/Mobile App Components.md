@@ -22,13 +22,15 @@
 3. App optimization (size, UX standards and consistency, overall app technical performance, lead adaptive maintenance)
 4. App architecture (local persistence, networking, standards and requirements etc.)
 5. Mobile-specific packages, components, dev and ai tools
-6. Mobile API / Orchestration
-7. App navigation
-8. Mobile deep link / universal link management
-9. Analytics capability
-10. Feedback mechanism
-11. Labs infrastructure
-12. App Settings
+6. App navigation
+7. Mobile deep link / universal link management
+8. Analytics capability
+9. Feedback mechanism
+10. Labs infrastructure
+11. App Settings
+
+## Questions
+1. Where does Mobile API / Orchestration live?
 
 ## Proposed: Owned by Experience Teams
 1. Sign-in / Identity / FS Account Settings

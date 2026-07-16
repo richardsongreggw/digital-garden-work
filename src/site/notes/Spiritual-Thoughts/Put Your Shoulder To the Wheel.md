@@ -10,6 +10,7 @@ Jul 16, 2026 - Ryan Parker's Staff Meeting
 "He Cares More About the Shoulder Than About the Wheel"
 
 by Monte R. Swain, BYU May 27, 2008
+https://speeches.byu.edu/talks/monte-r-swain/cares-shoulder-wheel/
 
 ---
  
